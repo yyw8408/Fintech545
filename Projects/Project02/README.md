@@ -1,0 +1,2 @@
+1. the file project02_solution.pdf is the description of the method I used to sovle the question, and the answer output.
+2. project02_code.py is the original code, you just run it step by step and you can get the answer.
